@@ -1,0 +1,31 @@
+{
+  "name": "hot-reload-browser-refresh",
+  "version": "0.1.0",
+  "description": "Plugin for the hot-reload module to enable browser refresh via web sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patrick-steele-idem/hot-reload-browser-refresh.git"
+  },
+  "keywords": [
+    "hot-reload",
+    "browser",
+    "refresh",
+    "web",
+    "sockets",
+    "live",
+    "coding"
+  ],
+  "author": "Patrick Steele-Idem <pnidem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrick-steele-idem/hot-reload-browser-refresh/issues"
+  },
+  "homepage": "https://github.com/patrick-steele-idem/hot-reload-browser-refresh",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}

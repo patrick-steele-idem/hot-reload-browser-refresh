@@ -1,0 +1,11 @@
+{
+    "namespace": "hot-reload",
+    "tags": {
+        "refresh": {
+            "renderer": "./refresh-tag.js",
+            "attributes": {
+                "enabled": "boolean"
+            }
+        }
+    }
+}
