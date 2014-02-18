@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/patrick-steele-idem/hot-reload-browser-refresh",
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~0.9.16",
+    "q": "~1.0.0"
   }
 }
