@@ -1,6 +1,6 @@
 {
   "name": "hot-reload-browser-refresh",
-  "version": "0.1.1",
+  "version": "0.2.0-beta",
   "description": "Plugin for the hot-reload module to enable browser refresh via web sockets",
   "main": "index.js",
   "scripts": {
