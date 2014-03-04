@@ -4,7 +4,6 @@
   "description": "Plugin for the hot-reload module to enable browser refresh via web sockets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
